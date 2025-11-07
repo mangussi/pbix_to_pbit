@@ -117,7 +117,7 @@ This will process all .pbix files in `reports/`, save .pbit files to `pbit/`, an
 - Tested on Windows; may require tweaks for other OS (e.g., path separators).
 
 ## License
-- **Script**: CC0 1.0 Universal (public domain).
+- **Script**: Script: MIT License. See the LICENSE file for the full text.
 - **pbi-tools**: AGPLv3 (see [pbi-tools License](https://pbi.tools/license) for details).
 
 If you encounter issues or have suggestions, feel free to fork and improve!
