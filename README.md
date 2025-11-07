@@ -24,7 +24,7 @@ Before running the script, ensure you have the following installed and configure
 - **Windows Long Paths Enabled**: For Windows 10 (version 1607) and later, enable long path support via [Microsoft Docs](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry). This prevents issues with deeply nested files.
 - **pbi-tools & pbi-tools.core**: Download from [pbi-tools Getting Started](https://pbi.tools/tutorials/getting-started-cli.html).
   - Place the binaries in folders specified via `--cli-path` and `--core-path` (e.g., `pbi-tools.exe` and `pbi-tools.core.exe`).
-  - **Note on Licensing**: pbi-tools is licensed under the GNU Affero General Public License version 3 (AGPLv3) or later. If you modify or distribute it (e.g., custom builds), comply with AGPLv3 (e.g., offer source code). For unmodified use, no additional obligations apply. Full license: [pbi-tools License](https://pbi.tools/license).
+  - **Note on Licensing**: pbi-tools is licensed under the GNU Affero General Public License version 3 (AGPLv3) or later. If you modify or distribute it (e.g., custom builds), comply with AGPLv3 (e.g., offer source code). For unmodified use, no additional obligations apply. Full license: [pbi-tools License]([https://pbi.tools/license](https://github.com/pbi-tools/pbi-tools/blob/main/LICENSE)).
 
 **Verify Setup:**
 - Run `python --version` to confirm Python is installed.
@@ -118,6 +118,6 @@ This will process all .pbix files in `reports/`, save .pbit files to `pbit/`, an
 
 ## License
 - **Script**: MIT License. See the LICENSE file for the full text.
-- **pbi-tools**: AGPLv3 (see [pbi-tools License](https://pbi.tools/license) for details).
+- **pbi-tools**: AGPLv3 (see [pbi-tools License]([https://pbi.tools/license](https://github.com/pbi-tools/pbi-tools/blob/main/LICENSE)) for details).
 
 If you encounter issues or have suggestions, feel free to fork and improve!
