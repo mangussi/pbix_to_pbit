@@ -3,8 +3,8 @@
 A Python script to batch convert Power BI (.pbix) files to templates (.pbit) using [pbi-tools](https://pbi.tools/). The script recursively searches for .pbix files in a specified folder (and subfolders), extracts their contents, compiles them into .pbit files, and saves them to an output folder while mirroring the original directory structure. Temporary extraction folders can be automatically cleaned up.
 
 **Author:** Fernando Mangussi  
-**License:** Public domain (CC0 1.0 Universal). No copyright is asserted.  
-**Disclaimer:** This script is provided "AS IS" without any warranty, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose. The author(s) and contributors provide no support or maintenance for this script. Use at your own risk.
+**License:** MIT License. See the [LICENSE](LICENSE) file for details.  
+**Disclaimer:** This script is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 ## Features
 - Recursively finds all .pbix files in the input folder and subdirectories.
