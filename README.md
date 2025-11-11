@@ -15,7 +15,7 @@ A Python script to batch convert Power BI (.pbix) files to templates (.pbit) usi
 - Progress tracking with ETA and timing logs.
 - Handles errors gracefully (e.g., unsupported file models).
 
-## Prerequisites
+## Requirements
 Before running the script, ensure you have the following installed and configured:
 
 - **Power BI Desktop**: Download from [Microsoft](https://download.microsoft.com/download/8/8/0/880BCA75-79DD-466A-927D-1ABF1F5454B0/PBIDesktopSetup_x64.exe).
